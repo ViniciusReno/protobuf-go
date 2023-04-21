@@ -1,7 +1,7 @@
 # Probuff
 
-## comando simples: protoc --go_out=. person.proto
-### esse comando gera o arqvuio person.pb.go no diretorio que está no person.proto ( mudar ele para uma pasta especifica proto por exemplo ?)
+### comando simples: protoc --go_out=. person.proto 
+#### Esse comando gera o arqvuio person.pb.go no diretorio que está no person.proto ( mudar ele para uma pasta especifica proto por exemplo ?)
 
 
 estrutura básica arquivo person.proto:
